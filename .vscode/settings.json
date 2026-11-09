@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "editor.codeActionsOnSave": {
+    "source.formatDocument": "always",
+    "source.fixAll.oxc": "always"
+  }
+}
